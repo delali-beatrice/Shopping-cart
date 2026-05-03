@@ -5,12 +5,12 @@ A dynamic shopping cart web app built with vanilla HTML, CSS and JavaScript — 
 ---
 
 ## 🌐 Live Demo
-> [https://delali-beatrice.github.io/Shopping-cart/](url)
+> (https://delali-beatrice.github.io/Shopping-cart/)
 
 ---
 
 ## 📸 Preview
-> Add a screenshot of your project here after pushing to GitHub
+> ![Shopping Cart](screenshot.PNG)
 
 ---
 
@@ -48,7 +48,7 @@ shopping-cart/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/shopping-cart.git
+git clone https://github.com/delali-beatrice/shopping-cart.git
 ```
 
 2. Open `index.html` in your browser — no installation needed!
