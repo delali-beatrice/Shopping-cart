@@ -5,7 +5,7 @@ A dynamic shopping cart web app built with vanilla HTML, CSS and JavaScript — 
 ---
 
 ## 🌐 Live Demo
-> Coming soon
+> [https://delali-beatrice.github.io/Shopping-cart/](url)
 
 ---
 
