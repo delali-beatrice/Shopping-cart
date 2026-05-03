@@ -38,7 +38,7 @@ let items = [
         id:6,
         name: "Flash Drive",
         price: 20,
-        image: "https://media.istockphoto.com/id/899732694/photo/usb-drive.jpg?s=2048x2048&w=is&k=20&c=mcJNLHdm-Vqr5GdwaZMlO7Dh4jGUZ39oEQWitvive54=",
+        image: "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?w=800",
         quantity: 0
     }
 ];
